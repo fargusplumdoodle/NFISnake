@@ -1,0 +1,9 @@
+
+./static
+venv
+.idea/**
+.idea
+db.sqlite3
+**/__pycache__/
+**/migrations/**
+**.swp
